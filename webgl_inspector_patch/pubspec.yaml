@@ -1,0 +1,8 @@
+name: webgl_inspector_patch
+version: 0.1.0
+description: transformer to automatically patch the generated javascript files to work with WebGLInspector
+authors:
+- Romain Francois <romain.francois@gmail.com>
+homepage: http://spvss-vssonrdk.cisco.com/uiaas/
+dependencies:
+  barback: any
